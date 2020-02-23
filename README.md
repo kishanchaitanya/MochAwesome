@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="readme-images/api.png" alt="Logo" width="80" height="80">
+    <img src="readme-images/charts.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">MochAwesome</h3>
